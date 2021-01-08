@@ -10082,8 +10082,15 @@ p.lead {
   background-color: #ffc259;
 }
 
-.dev-icons {
+.dev-icons .dev-icon{
   font-size: 3rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  color: #fff;
+  margin-right: 1.5rem;
 }
 
 section.resume-section {
